@@ -1,8 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: #1F1F28;
 }
 
-h1 {
-  color: white;
+h1, p1 {
+  color: #DCD7BA;
   text-align: center;
 }
